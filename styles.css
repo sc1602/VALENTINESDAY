@@ -3,7 +3,7 @@ body{
 }
 .text{
     margin:0 auto;
-    margin-top:150px;
+    margin-top:180px;
 }
 .button{
     display:flex;
@@ -12,22 +12,23 @@ body{
 }
 button{
     border-radius: 5px;
-    height: 30px;
-    width: 80px;
+    height: 60px;
+    width: 150px;
     background-color: rgb(235, 115, 237);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:35px;
     color: white;
 }
 h1{
     color:rgb(255, 254, 254);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
 }
 h2{
     color:rgb(235, 115, 237);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
    
 }
